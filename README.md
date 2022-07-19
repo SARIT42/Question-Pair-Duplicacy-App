@@ -9,5 +9,3 @@ Currently, Quora uses a Random Forest model to identify duplicate questions. In 
 
 LIVE DEMO: https://question-pairs-duplicacy.herokuapp.com/
 
-![image](https://user-images.githubusercontent.com/77446629/179734653-8ca477d2-5187-41b0-ac8c-196b0ebe1d34.png)
-
